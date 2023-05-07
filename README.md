@@ -17,7 +17,7 @@ Ce programme simple permet de générer le négatif d'une image en noir et blanc
 - Télechargez python et thonny à partir des liens fournis.
 - Téléchargez le programme python fourni puis l'ouvrir avec thonny
 - Installez le paquet PILLOW sur thonny -> Outils/Gérer les paquets
-- Pour créer un négatif, il faut modifier le nom du fichier dans la 5ème ligne -> remplacez (image_name) par le nom de votre image cible ( n'oubliez pas d'enlever les     parenthèses   
+- Pour créer un négatif, il faut modifier le nom du fichier dans la 5ème ligne -> remplacez (image_name) par le nom de votre image cible ( n'oubliez pas d'enlever les     parenthèses )
 
 # A propos
 
