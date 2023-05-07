@@ -1,9 +1,9 @@
 # Negatif-Image-NoiretBlanc
 Ce programme simple permet de générer le négatif d'une image en noir et blanc.
 
-![Image](https://github.com/FGAMER768/Negatif-Image-NoiretBlanc/Programme.png)
-![Image](https://github.com/FGAMER768/Negatif-Image-NoiretBlanc/Installation du paquet étape 1.png)
-![Image](https://github.com/FGAMER768/Negatif-Image-NoiretBlanc/Installation du paquet étape 2.png)
+![Image](https://github.com/FGAMER768/Negatif-Image-NoiretBlanc/blob/main/Programme.png)
+![Image](https://github.com/FGAMER768/Negatif-Image-NoiretBlanc/blob/main/Installation%20du%20paquet%20%C3%A9tape%201.png)
+![Image](https://github.com/FGAMER768/Negatif-Image-NoiretBlanc/blob/main/Installation%20du%20paquet%20%C3%A9tape%202.png)
 
 # Requis
 
@@ -21,4 +21,4 @@ Ce programme simple permet de générer le négatif d'une image en noir et blanc
 
 # A propos
 
-Merci d'avoir utilisé ce simple programme, n'hésitez pas à me contacter sur discord -> FGAMER768#9474
+Merci d'avoir utilisé ce programme, n'hésitez pas à me contacter sur discord -> FGAMER768#9474
